@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandro Armenta</h1>
-<h3 align="center">Fullstack Developer🌟.</h3>
+<h3 align="center">Fullstack Developer And AWS Solutions Architect🌟.</h3>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <br>
 
