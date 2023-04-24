@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/alex.new.world.order" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="alex.new.world.order" height="30" width="40" /></a>
-  <a href="https://open.spotify.com/user/alex.zeror" target="blank"><img align="center"
+  <a href="https://open.spotify.com/user/alex.zero" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg"
       alt="alex.zero" height="30" width="40" /></a>
   <a href="https://steamcommunity.com/id/alexnwo" target="blank"><img align="center"
