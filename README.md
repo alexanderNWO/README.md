@@ -14,6 +14,9 @@
 - ⚡ Fun fact **I love the wrestling**
 
 <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/9c946413-5241-40a8-afbe-671968079e18 "AWS Cloud Quest: Solutions Architect")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/e9f9d028-dc06-43fb-8ebe-c7614bf7c66f "AWS Certified Cloud Practitioner")
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/fae5481a-09a3-4681-8403-4c0f9247b8b2 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
