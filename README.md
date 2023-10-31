@@ -38,7 +38,7 @@ alt="alexnwo" height="30" width="40" /></a>
 
 <br>
 
-[![@alexandernwo's Holopin board](https://holopin.io/api/user/board?user=alexandernwo)](https://holopin.io/@alexandernwo)
+[![An image of @alexandernwo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexandernwo)](https://holopin.io/@alexandernwo)
 
 <br>
 
