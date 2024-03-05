@@ -17,6 +17,7 @@
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/076f551f-d826-4437-a0b0-f97632fa63b4 "AWS Certified Cloud Practitioner")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/fae5481a-09a3-4681-8403-4c0f9247b8b2 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
+[![Welcome Partners (CPSC)](https://images.credly.com/size/110x110/images/b64bc148-267a-4e63-bb37-e3c448c56be8/image.png)](https://www.credly.com/badges/1c0bd054-482a-4495-b176-b429323e189f/public_url "Welcome Partners (CPSC)")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
