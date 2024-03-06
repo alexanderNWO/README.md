@@ -10,6 +10,7 @@
 - 💬 Ask me about **AWS, CI/CD, Terraform, Ansible or Node JS**
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/bc63b6af-fc02-4270-afc8-800b2c0353cc "AWS Knowledge: Architecting")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/1386d95d-b199-462b-8a8d-d02335271060 "AWS Certified SysOps Administrator – Associate")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/bbe21033-28f4-454d-b967-4978fdde7f24 "AWS Cloud Quest: Security")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/0a5a6c27-5efb-4112-b276-8697c3187b98 "AWS Knowledge: Architecting")
