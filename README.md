@@ -19,6 +19,7 @@
 <!--END_SECTION:badges-->
 [![Welcome Partners (CPSC)](https://images.credly.com/size/110x110/images/b64bc148-267a-4e63-bb37-e3c448c56be8/image.png)](https://www.credly.com/badges/1c0bd054-482a-4495-b176-b429323e189f/public_url "Welcome Partners (CPSC)")
 [![CloudGuard Pre-Sales - Technical Specialist](https://images.credly.com/size/110x110/images/4dd83ff2-6555-464c-a6e9-2e73bce4d572/image.png)](https://www.credly.com/badges/118d9fb2-5896-44d6-af8c-b78108ef231c/public_url "CloudGuard Pre-Sales - Technical Specialist")
+[![CloudGuard Sales Specialist](https://images.credly.com/size/110x110/images/1afa9215-38d6-44ba-aed4-7b24975e5a39/image.png)](https://www.credly.com/badges/fbbc2536-4d10-49de-bc32-bc567955ab2b/public_url "CloudGuard Sales Specialist")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
