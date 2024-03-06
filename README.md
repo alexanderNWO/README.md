@@ -18,6 +18,7 @@
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/fae5481a-09a3-4681-8403-4c0f9247b8b2 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 [![Welcome Partners (CPSC)](https://images.credly.com/size/110x110/images/b64bc148-267a-4e63-bb37-e3c448c56be8/image.png)](https://www.credly.com/badges/1c0bd054-482a-4495-b176-b429323e189f/public_url "Welcome Partners (CPSC)")
+[![CloudGuard Pre-Sales - Technical Specialist](https://images.credly.com/size/110x110/images/4dd83ff2-6555-464c-a6e9-2e73bce4d572/image.png)](https://www.credly.com/badges/118d9fb2-5896-44d6-af8c-b78108ef231c/public_url "CloudGuard Pre-Sales - Technical Specialist")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
