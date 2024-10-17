@@ -10,12 +10,13 @@
 - 💬 Ask me about **AWS, CI/CD, Terraform, Ansible or Node JS**
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/7bd12293-91cf-40b1-8eb3-7d4944a89d96 "AWS Certified Solutions Architect – Associate")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/bc63b6af-fc02-4270-afc8-800b2c0353cc "AWS Knowledge: Architecting")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/1386d95d-b199-462b-8a8d-d02335271060 "AWS Certified SysOps Administrator – Associate")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/bbe21033-28f4-454d-b967-4978fdde7f24 "AWS Cloud Quest: Security")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/0a5a6c27-5efb-4112-b276-8697c3187b98 "AWS Knowledge: Architecting")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/9c946413-5241-40a8-afbe-671968079e18 "AWS Cloud Quest: Solutions Architect")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/076f551f-d826-4437-a0b0-f97632fa63b4 "AWS Certified Cloud Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/aa41c47d-c1bc-43d6-a906-05ac39e3047c "AWS Certified Cloud Practitioner")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/fae5481a-09a3-4681-8403-4c0f9247b8b2 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 [![Welcome Partners (CPSC)](https://images.credly.com/size/110x110/images/b64bc148-267a-4e63-bb37-e3c448c56be8/image.png)](https://www.credly.com/badges/1c0bd054-482a-4495-b176-b429323e189f/public_url "Welcome Partners (CPSC)")
