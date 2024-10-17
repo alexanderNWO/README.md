@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandernwo" alt="alexandernwo" /></a> </p>
 
-- 🌱 I’m currently learning **SysOps Administrator Things**
+- 🌱 I’m currently learning **AWS and DevOps stuff**
 
 - 💬 Ask me about **AWS, CI/CD, Terraform, Ansible or Node JS**
 
